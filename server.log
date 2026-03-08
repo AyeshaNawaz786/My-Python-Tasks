@@ -1,0 +1,7 @@
+INFO - Server started
+INFO - User login
+ERROR - Database connection failed
+WARNING - Disk usage high
+CRITICAL - Memory overflow
+ERROR - Timeout error
+ERROR - Database connection failed

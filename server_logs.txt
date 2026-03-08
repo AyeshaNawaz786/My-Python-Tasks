@@ -1,0 +1,10 @@
+
+INFO User login successful
+ERROR Database connection failed
+INFO File uploaded
+CRITICAL Server crashed
+WARNING Memory usage high
+ERROR Invalid request
+INFO Backup completed
+CRITICAL Disk failure
+ERROR Authentication failed
