@@ -1,0 +1,8 @@
+2026-03-08 21:24:55,490 - INFO - Academic Portal Started
+2026-03-08 21:24:55,683 - INFO - Student data loaded successfully
+2026-03-08 21:24:55,753 - INFO - Portal analysis completed
+2026-03-08 21:32:20,054 - WARNING - Matplotlib is building the font cache; this may take a moment.
+2026-03-08 21:32:21,732 - INFO - generated new fontManager
+2026-03-08 21:32:22,925 - INFO - Portal Started
+2026-03-08 21:32:22,935 - INFO - CSV Loaded Successfully
+2026-03-08 21:36:05,097 - INFO - Portal Finished
